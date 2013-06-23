@@ -1,4 +1,4 @@
-Something you shoud know at least
+Something you shoud know before you start: 
 =============================================
 1. Some basic knowledge in CoronaSDK
 2. OOP in CoronaSDK's Lua
