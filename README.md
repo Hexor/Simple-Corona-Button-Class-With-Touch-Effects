@@ -1,4 +1,4 @@
-Simple-Corona-Button-Class-With-Touch-Effects
+What CAN this project DO?
 =============================================
 
 This project is used for helping you make a simple button with the Corona-SDK.
