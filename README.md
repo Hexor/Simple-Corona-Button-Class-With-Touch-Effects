@@ -1,3 +1,12 @@
+Something you shoud know at least
+=============================================
+1. Some basic knowledge in CoronaSDK
+2. OOP in CoronaSDK's Lua
+3. The event API in CoronaSDK.
+
+
+
+
 What CAN this project DO?
 =============================================
 
